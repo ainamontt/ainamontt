@@ -41,9 +41,6 @@ Una aplicación que conecta a trabajadores remotos con los mejores cafés de Bar
 
 ## Screenshots
 
-<p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/17" alt="Captura de pantalla de WorkAffe: Mapa de cafés en Barcelona" width="400"/>
-  </p>
 
 
 
