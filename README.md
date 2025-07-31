@@ -28,7 +28,7 @@ Now, as a Full-Stack Developer, I bring that mindset into tech — building appl
 what i'm working on: 
 
 **[WorkAffe](https://github.com/ainamontt/workaffe)** (Web/Móvil): 
-Una aplicación que conecta a trabajadores remotos con los mejores cafés de Barcelona, permitiendo filtrar por barrio, Wi-Fi, enchufes y ambiente. 
+An application that connects remote workers with the best cafes in Barcelona, allowing them to filter by neighborhood, Wi-Fi, power outlets, and ambiance.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
